@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋,  soy Saul De La Cruz García  </h1> 
+<h1 align="center">Hola 👋 soy Saul De La Cruz García  </h1> 
 
 
 <h2> Sobre mi 😃</h2>
