@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hola 👋,  soy Saul De La Cruz García  </h1> 
 
-<!--
-**SaulGarcia29/SaulGarcia29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2> Sobre mi 😃</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Intro start-->
+<p align="left">
+🎓 TECNOLOGO EN DESARROLLO DE SOFTWARE
+
+💻 3 AÑOS DE EXPERIENCIA
+
+📝 DESARROLLADOR DE SOFTWARE
+
+📫 SAULXGARCIA29@GMAIL.COM
+
+<a href="https://www.linkedin.com/in/sauldelacruzg" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+</p>
+<!--Intro end-->
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+ <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,dotnet,css,html,js,nodejs,git,github,postman,vscode,react,vite,regex,visualstudio" />
+  </a>
+</p>
