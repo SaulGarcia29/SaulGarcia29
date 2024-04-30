@@ -11,6 +11,8 @@
 
 📝 DESARROLLADOR DE SOFTWARE
 
+Soy un desarrollador apasionado por crear aplicaciones web. Disfruto el proceso de convertir ideas en realidad utilizando soluciones creativas. Siempre tengo curiosidad por aprender nuevas habilidades, herramientas y conceptos. Además de trabajar en varios proyectos completos en solitario, he trabajado con equipos creativos, lo que implica comunicaciones y presentaciones diarias, control de fuentes y gestión de proyectos.
+
 📫 SAULXGARCIA29@GMAIL.COM
 
 <a href="https://www.linkedin.com/in/sauldelacruzg" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
